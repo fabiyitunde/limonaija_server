@@ -1,0 +1,7 @@
+{
+  "jwtPrivateKey": "XXCX1233",
+  "dbconstring": "mongodb://localhost/limonaija",
+  "clientaddress": "http://localhost:3002",
+  "fromemail": "noreply@limonaija.com",
+  "sendgridAPIkey": "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"
+}

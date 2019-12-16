@@ -1,0 +1,7 @@
+{
+  "jwtPrivateKey": "XXCX1233",
+  "dbconstring": "mongodb://fabson:fabson123@ds123346.mlab.com:23346/limonija",
+  "clientaddress": "https://limoclient.herokuapp.com",
+  "fromemail": "noreply@limonaija.com",
+  "sendgridAPIkey": "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"
+}
