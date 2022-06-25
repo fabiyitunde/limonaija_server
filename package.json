@@ -59,7 +59,7 @@
     "multer": "^1.4.1",
     "multiparty": "^4.2.1",
     "node-datetime": "^2.1.2",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.7",
     "p-queue": "^3.0.0",
     "postal": "^2.0.5",
     "queue-typescript": "^1.0.1",
